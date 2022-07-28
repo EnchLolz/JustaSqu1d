@@ -1,5 +1,11 @@
-### Hi there 👋
+<div id="badges">
+  <img src="https://img.shields.io/badge/Discord-3e70dd?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+</div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JustaSqu1d&theme=vue-dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustaSqu1d&show_icons=true&count_private=true&theme=vue-dark)
 <!--
 **JustaSqu1d/JustaSqu1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
