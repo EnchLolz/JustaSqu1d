@@ -6,6 +6,6 @@
 ### Below Average Statistics :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JustaSqu1d&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustaSqu1d&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustaSqu1d&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustaSqu1d&show_icons=true&count_private=true&theme=vue-dark)
